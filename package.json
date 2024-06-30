@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/craftzdog/react-native-animated-todo.git"
+    "url": "git+https://github.com/RadinaAvramova/react-native-animated-todo.git"
   },
   "author": {
-    "name": "Takuya Matsuyama",
+    "name": "",
     "url": "https://www.craftz.dog/"
   },
-  "license": "MIT",
+  "license": "",
   "keywords": [
     "react-native",
     "tutorial",
